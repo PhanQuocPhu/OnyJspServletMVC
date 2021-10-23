@@ -128,7 +128,7 @@ public class OnlyServlet extends HttpServlet {
                 "\n" +
                 "\t\t<script src=\"//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js\"></script>\n" +
                 "\t\t<script src=\"//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js\"></script>\n" +
-                "\t\t<title>Document</title>\n" +
+                "\t\t<title>Only Servlet</title>\n" +
                 "\t</head>");
     }
     public void printStyle(PrintWriter out) {
