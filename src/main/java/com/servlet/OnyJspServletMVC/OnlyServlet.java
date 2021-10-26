@@ -27,6 +27,9 @@ public class OnlyServlet extends HttpServlet {
                 "                <div class=\"card\">\n" +
                 "                    <div class=\"card-header\">\n" +
                 "                        <h3 class=\"text-center\">Welcome Back</h3>                \n" +
+                "                        <div class=\"d-flex justify-content-end social_icon\">\n" +
+                "\t\t\t\t\t\t\t<a href=\"/\" style=\"height: 70%; margin-top: 130%;\" class=\"btn btn-warning\"> <i class=\"fa fa-home\"></i> </a>\n" +
+                "                        </div>" +
                 "                    </div>\n" +
                 "                    <div class=\"card-body\">\n" +
                 "                        <form action=\"/servletonly\" method=\"post\">\n" +
@@ -64,9 +67,7 @@ public class OnlyServlet extends HttpServlet {
                 "                    <div class=\"card-header\">\n" +
                 "                        <h3>Sign In</h3>\n" +
                 "                        <div class=\"d-flex justify-content-end social_icon\">\n" +
-                "                            <span><i class=\"fab fa-facebook-square\"></i></span>\n" +
-                "                            <span><i class=\"fab fa-google-plus-square\"></i></span>\n" +
-                "                            <span><i class=\"fab fa-twitter-square\"></i></span>\n" +
+                "                            <a href=\"/\" style=\"height: 70%; margin-top: 130%;\" class=\"btn btn-warning\"> <i class=\"fa fa-home\"></i> </a>\n" +
                 "                        </div>\n" +
                 "                    </div>\n" +
                 "                    <div class=\"card-body\">\n" +
@@ -131,6 +132,7 @@ public class OnlyServlet extends HttpServlet {
                 "\t\t<title>Only Servlet</title>\n" +
                 "\t</head>");
     }
+
     public void printStyle(PrintWriter out) {
         out.println("<style>\n" +
                 "\t\t@import url(\"https://fonts.googleapis.com/css?family=Numans\");\n" +
@@ -219,6 +221,7 @@ public class OnlyServlet extends HttpServlet {
                 "\t\t}\n" +
                 "\t</style>");
     }
+
     public void printFooter(PrintWriter out) {
         out.println("\n" +
                 "\t<footer>\n" +
