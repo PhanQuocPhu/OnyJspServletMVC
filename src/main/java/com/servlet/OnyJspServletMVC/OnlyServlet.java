@@ -28,7 +28,7 @@ public class OnlyServlet extends HttpServlet {
                 "                    <div class=\"card-header\">\n" +
                 "                        <h3 class=\"text-center\">Welcome Back</h3>                \n" +
                 "                        <div class=\"d-flex justify-content-end social_icon\">\n" +
-                "\t\t\t\t\t\t\t<a href=\"/\" style=\"height: 70%; margin-top: 130%;\" class=\"btn btn-warning\"> <i class=\"fa fa-home\"></i> </a>\n" +
+                "\t\t\t\t\t\t\t<a href=\"https://topic-3-group-9.herokuapp.com/\" style=\"height: 70%; margin-top: 130%;\" class=\"btn btn-warning\"> <i class=\"fa fa-home\"></i> </a>\n" +
                 "                        </div>" +
                 "                    </div>\n" +
                 "                    <div class=\"card-body\">\n" +
@@ -67,7 +67,7 @@ public class OnlyServlet extends HttpServlet {
                 "                    <div class=\"card-header\">\n" +
                 "                        <h3>Sign In</h3>\n" +
                 "                        <div class=\"d-flex justify-content-end social_icon\">\n" +
-                "                            <a href=\"/\" style=\"height: 70%; margin-top: 130%;\" class=\"btn btn-warning\"> <i class=\"fa fa-home\"></i> </a>\n" +
+                "                            <a href=\"https://topic-3-group-9.herokuapp.com/\" style=\"height: 70%; margin-top: 130%;\" class=\"btn btn-warning\"> <i class=\"fa fa-home\"></i> </a>\n" +
                 "                        </div>\n" +
                 "                    </div>\n" +
                 "                    <div class=\"card-body\">\n" +
