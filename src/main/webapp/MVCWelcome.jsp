@@ -118,6 +118,9 @@
 				<div class="card">
 					<div class="card-header">
 						<h3 class="text-center">Welcome Back</h3>
+						<div class="d-flex justify-content-end social_icon">
+							<a href="/" style="height: 70%; margin-top: 130%;" class="btn btn-warning"> <i class="fa fa-home"></i> </a>
+						</div>
 					</div>
 					<div class="card-body">
 						<form action="/servletonly" method="post">
