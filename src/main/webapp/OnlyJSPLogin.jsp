@@ -119,7 +119,7 @@
 					<div class="card-header">
 						<h3>Sign In</h3>
 						<div class="d-flex justify-content-end social_icon">
-							<a href="https://topic-3-group-9.herokuapp.com/" style="height: 70%; margin-top: 130%;" class="btn btn-warning"> <i class="fa fa-home"></i> </a>
+							<a href="https://hcmute-group-9-assignment-link.herokuapp.com/" style="height: 70%; margin-top: 130%;" class="btn btn-warning"> <i class="fa fa-home"></i> </a>
 						</div>
 					</div>
 					<div class="card-body">
